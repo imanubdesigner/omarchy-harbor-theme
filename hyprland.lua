@@ -5,7 +5,7 @@ hl.config({
   general = {
     col = {
       active_border = "rgba(253631ee)",
-      inactive_border = "rgb(858f8b)",
+      inactive_border = "rgb(7d8794)",
     },
     gaps_in = 4,
     gaps_out = 5,
@@ -14,15 +14,15 @@ hl.config({
   group = {
     col = {
       border_active = "rgba(253631ee)",
-      border_inactive = "rgb(858f8b)",
+      border_inactive = "rgb(7d8794)",
     },
     groupbar = {
       col = {
         active = "rgba(25363199)",
-        inactive = "rgba(858f8b88)",
+        inactive = "rgba(7d879488)",
       },
-      text_color = "rgb(d08770)",
-      text_color_inactive = "rgba(4a8c99ee)",
+      text_color = "rgb(dc8164)",
+      text_color_inactive = "rgba(1c2d28ee)",
     },
   },
   decoration = {

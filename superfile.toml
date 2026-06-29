@@ -26,26 +26,26 @@ modal_fg = '#1c2d28'
 
 # ========= Special Color =========
 cursor = '#1c2d28'
-correct = '#5f745d'
-error = '#bf616a'
-hint = '#4a8c99'
-cancel = '#bf616a'
-gradient_color = ['#dfe4c4', "#5f8170"]
+correct = '#556753'
+error = '#b14752'
+hint = '#3d727d'
+cancel = '#b14752'
+gradient_color = ['#dfe4c4', "#7d8794"]
 
 # ========= File Panel Special Items =========
 file_panel_top_directory_icon = '#dfe4c4'
-file_panel_top_path = '#5f8170'
-file_panel_item_selected_fg = '#5f8170'
+file_panel_top_path = '#7d8794'
+file_panel_item_selected_fg = '#7d8794'
 file_panel_item_selected_bg = '#dfe4c4'
 
 # ========= Sidebar Special Items =========
 sidebar_title = '#1c2d28'
-sidebar_item_selected_fg = '#5f8170'
+sidebar_item_selected_fg = '#7d8794'
 sidebar_item_selected_bg = '#dfe4c4'
 sidebar_divider = '#384f54'
 
 # ========= Modal Special Items =========
 modal_cancel_fg = "#383838"
-modal_cancel_bg = '#bf616a'
+modal_cancel_bg = '#b14752'
 modal_confirm_fg = "#383838"
-modal_confirm_bg = '#5f745d'
+modal_confirm_bg = '#556753'
